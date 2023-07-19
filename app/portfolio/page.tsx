@@ -12,7 +12,6 @@ import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 
 import LocalFont from "next/font/local";
 const beckman = LocalFont({ src: "../../assets/beckman.woff2" });
-
 function Eyes() {
   const eyeRef = useRef<HTMLDivElement | null>(null);
 
@@ -35,10 +34,10 @@ function Eyes() {
       const dist = Math.min(Math.abs(deltaX), maxDist);
       const normalizedDist = dist / maxDist;
 
-      const pupil = eyeContainer?.querySelector(".pupils");
+      const pupil = eyeContainer?.querySelector(".pupils") as HTMLDivElement;
       if (pupil) {
         pupil.style.transform = `translateX(${
-          deltaX > 0 ? normalizedDist * maxDist : -normalizedDist * maxDist
+          deltaX < 0 ? normalizedDist * maxDist : -normalizedDist * maxDist
         }px)`;
         pupil.style.transition = "transform 0.3s ease-out"; // Adjust the duration and easing function as needed
       }
@@ -50,6 +49,7 @@ function Eyes() {
       document.removeEventListener("mousemove", handleMouseMove);
     };
   }, []);
+
 
   return (
     <motion.div
