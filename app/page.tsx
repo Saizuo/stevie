@@ -170,8 +170,11 @@ export default function Home() {
 
 <div
   className={`${beckman.className} vs relative cursor-pointer text-2xl  flex flex-row items-center justify-between gap-2`}>
+              <Link href="https://www.youtube.com/channel/UC2sQ0TmgZBzzJph4WP5fzsA">
+
   Youtube
   <FontAwesomeIcon icon={faYoutube} />
+                </Link>
 </div>
   </motion.div>
 
@@ -189,3 +192,4 @@ className="absolute text-center text-[12px] bottom-0 font-mono">
     </main>
   );
 }
+
