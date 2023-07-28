@@ -7,7 +7,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 
 import { motion } from "framer-motion";
-
 function Eyes() {
   const eyeRef = useRef<HTMLDivElement | null>(null);
 
@@ -30,7 +29,7 @@ function Eyes() {
       const dist = Math.min(Math.abs(deltaX), maxDist);
       const normalizedDist = dist / maxDist;
 
-      const pupil = eyeContainer?.querySelector(".pupils");
+      const pupil = eyeContainer?.querySelector(".pupils") as HTMLDivElement;
       if (pupil) {
         pupil.style.transform = `translateX(${
           deltaX < 0 ? normalizedDist * maxDist : -normalizedDist * maxDist
@@ -45,6 +44,7 @@ function Eyes() {
       document.removeEventListener("mousemove", handleMouseMove);
     };
   }, []);
+
 
   return (
     <motion.div
