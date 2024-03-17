@@ -1,12 +1,13 @@
-import txqozizq from "O:/Portfolio/Logos/1.png";
-import srdawhgy from "O:/Portfolio/Logos/2.png";
-import oqmpwrdi from "O:/Portfolio/Logos/anonymous1.png";
-import qhqwcxmd from "O:/Portfolio/Logos/anonymous2.png";
-import nvklzcpc from "O:/Portfolio/Logos/anonymous3.png";
-import ycmekiab from "O:/Portfolio/Logos/anonymous4.png";
-import opsxfovx from "O:/Portfolio/Logos/nlbull.png";
-import bphwlsqz from "O:/Portfolio/Logos/nltiger.png";
-import kwlhrlbd from "O:/Portfolio/Logos/nlvikings.png";
+import ihabfbvo from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/1.png";
+import twslocje from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/2.png";
+import lwmqtzij from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous1.png";
+import aemcfvvs from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous2.png";
+import wjkhjnaz from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous3.png";
+import dwpsklje from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous4.png";
+import kqszppku from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlbull.png";
+import lwstuiva from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nltiger.png";
+import pnmfntmi from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlvikings.png";
+import xdvghqpl from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlwolf.png";
 import txalqdnt from "O:/Portfolio/Logos/nlwolf.png";
 
-export default [txqozizq, srdawhgy, oqmpwrdi, qhqwcxmd, nvklzcpc, ycmekiab, opsxfovx, bphwlsqz, kwlhrlbd, txalqdnt];
+export default [txqozizq, srdawhgy, oqmpwrdi, qhqwcxmd, nvklzcpc, ycmekiab, opsxfovx, bphwlsqz, kwlhrlbd, txalqdnt,, ihabfbvo, twslocje, lwmqtzij, aemcfvvs, wjkhjnaz, dwpsklje, kqszppku, lwstuiva, pnmfntmi, xdvghqpl];
