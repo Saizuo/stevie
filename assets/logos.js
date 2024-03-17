@@ -7,6 +7,16 @@ import dwpsklje from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/
 import kqszppku from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlbull.png";
 import lwstuiva from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nltiger.png";
 import pnmfntmi from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlvikings.png";
+import ggjkeipd from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/1.png";
+import bvnctcqq from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/2.png";
+import jiuigtst from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous1.png";
+import hicgegfs from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous2.png";
+import ctwprwez from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous3.png";
+import emzduvcm from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/anonymous4.png";
+import dshfiynb from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlbull.png";
+import jbludqrj from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nltiger.png";
+import yxpqccnp from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlvikings.png";
+import qvpsdblx from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlwolf.png";
 import xdvghqpl from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlwolf.png";
 
-export default [txqozizq, srdawhgy, oqmpwrdi, qhqwcxmd, nvklzcpc, ycmekiab, opsxfovx, bphwlsqz, kwlhrlbd, txalqdnt,, ihabfbvo, twslocje, lwmqtzij, aemcfvvs, wjkhjnaz, dwpsklje, kqszppku, lwstuiva, pnmfntmi, xdvghqpl];
+export default [txqozizq, srdawhgy, oqmpwrdi, qhqwcxmd, nvklzcpc, ycmekiab, opsxfovx, bphwlsqz, kwlhrlbd, txalqdnt,, ihabfbvo, twslocje, lwmqtzij, aemcfvvs, wjkhjnaz, dwpsklje, kqszppku, lwstuiva, pnmfntmi, xdvghqpl, ggjkeipd, bvnctcqq, jiuigtst, hicgegfs, ctwprwez, emzduvcm, dshfiynb, jbludqrj, yxpqccnp, qvpsdblx];
