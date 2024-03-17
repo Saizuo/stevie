@@ -8,6 +8,5 @@ import kqszppku from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/
 import lwstuiva from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nltiger.png";
 import pnmfntmi from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlvikings.png";
 import xdvghqpl from "C:/Users/stren/OneDrive/Desktop/StevieGPort/stevie/assets/images/logos/nlwolf.png";
-import txalqdnt from "O:/Portfolio/Logos/nlwolf.png";
 
 export default [txqozizq, srdawhgy, oqmpwrdi, qhqwcxmd, nvklzcpc, ycmekiab, opsxfovx, bphwlsqz, kwlhrlbd, txalqdnt,, ihabfbvo, twslocje, lwmqtzij, aemcfvvs, wjkhjnaz, dwpsklje, kqszppku, lwstuiva, pnmfntmi, xdvghqpl];
